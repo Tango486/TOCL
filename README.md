@@ -1,7 +1,5 @@
 # TOCL
 
-English | [中文](README_zh.md)
-
 Traffic Operation-aware Curriculum Learning (TOCL) for source only MARL based traffic signal control training with generated SUMO scenarios.
 
 ## Installation
