@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<configuration>
+    <input>
+        <net-file value="/workspace/TeacherLight-v4/OurLight/envs/sumo_files_marl/generalization_benchmark/generalization_benchmark_enhanced_20260512/20260512_082826_rolloutsource_0_x3_y3_del0_seed1100/rebuilt2.net.xml" />
+        <route-files value="/workspace/TeacherLight-v4/OurLight/envs/sumo_files_marl/generalization_benchmark/generalization_benchmark_enhanced_20260512/20260512_082826_rolloutsource_0_x3_y3_del0_seed1100/vehicle.rou.xml" />
+        <additional-files value="/workspace/TeacherLight-v4/OurLight/envs/sumo_files_marl/generalization_benchmark/generalization_benchmark_enhanced_20260512/20260512_082826_rolloutsource_0_x3_y3_del0_seed1100/e1.add.xml,/workspace/TeacherLight-v4/OurLight/envs/sumo_files_marl/generalization_benchmark/generalization_benchmark_enhanced_20260512/20260512_082826_rolloutsource_0_x3_y3_del0_seed1100/e2.add.xml" />
+    </input>
+    <time>
+        <begin value="0" />
+        <end value="3600" />
+        <step-length value="1.0" />
+    </time>
+</configuration>

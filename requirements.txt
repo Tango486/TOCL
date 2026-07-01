@@ -1,0 +1,7 @@
+cloudpickle
+gym==0.25.2
+matplotlib
+numpy
+sumolib
+torch
+traci
